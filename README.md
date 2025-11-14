@@ -8,6 +8,6 @@ This repository contains specifications for a function that returns the sum of t
 ## 📁 Files Included
 
 * `ta-test-fv.v`: The main Coq source file containing the definitions, proofs, and natural language answers/reflections for all parts of the assignment (Questions 1-5).
-* 'TATest.pdf' : The pdf that contains the problem statement.
+* `TATest.pdf` : The pdf that contains the problem statement.
 
 ---
